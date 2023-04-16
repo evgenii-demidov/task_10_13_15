@@ -1,0 +1,15 @@
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\task10.csproj.AssemblyReference.cache
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\task10.AssemblyInfoInputs.cache
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\task10.AssemblyInfo.cs
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\task10.csproj.CoreCompileInputs.cache
+D:\Git\C#\lesson2\task10\bin\Debug\net6.0\task10.exe
+D:\Git\C#\lesson2\task10\bin\Debug\net6.0\task10.deps.json
+D:\Git\C#\lesson2\task10\bin\Debug\net6.0\task10.runtimeconfig.json
+D:\Git\C#\lesson2\task10\bin\Debug\net6.0\task10.dll
+D:\Git\C#\lesson2\task10\bin\Debug\net6.0\task10.pdb
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\task10.dll
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\refint\task10.dll
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\task10.pdb
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache
+D:\Git\C#\lesson2\task10\obj\Debug\net6.0\ref\task10.dll
